@@ -77,7 +77,6 @@ Godswill is an Enthusiastic Software developer, ready to combine tireless hunger
 
 ### Github Stats 📊
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdera&langs_count=10&layout=compact&theme=radical" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=willdera&show_icons=true&theme=radical" />
-</div>
+
+  <img align="left" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdera&langs_count=10&layout=compact&theme=radical" />
+  <img align="right"style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=willdera&show_icons=true&theme=radical" />

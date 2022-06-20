@@ -1,9 +1,9 @@
 
 ## I'm Godswill 👋🏾👨‍💻
     
-[![Godswill Ezeoke Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezeoke-chidera-142166150/)
+[![Godswill Ezeoke Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezeoke-chidera/)
 [![Godswill Ezeoke](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://willdera.hashnode.dev/)
-[![Godswill Ezeoke](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_pryven)
+[![Godswill Ezeoke](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_willdera)
 
 Godswill is an Enthusiastic Software developer, ready to combine tireless hunger to better existing skills and a desire to exploit the latest machine learning and web development technologies (web3 included).
 <br>

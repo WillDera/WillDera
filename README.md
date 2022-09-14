@@ -13,8 +13,6 @@ Godswill is an Enthusiastic Software developer, ready to combine tireless hunger
 ### 👨‍💻 Programming languages
 
 <p>
-    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
-    <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
     <img alt="Solidity" src="https://img.shields.io/badge/Solidity-000000.svg?logo=solidity&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">

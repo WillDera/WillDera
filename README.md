@@ -26,18 +26,13 @@ Godswill is an Enthusiastic Software developer, ready to combine tireless hunger
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
-    <img alt="Chai" src="https://img.shields.io/badge/Chai-e9c46a.svg?logo=chai&logoColor=red">
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="Chai" src="https://img.shields.io/badge/Chai-e9c46a.svg?logo=chai&logoColor=red"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <img alt="Mocha" src="https://img.shields.io/badge/Mocha-7f4f24.svg?logo=mocha&logoColor=white">
+    <a href="#"><img alt="Mocha" src="https://img.shields.io/badge/Mocha-7f4f24.svg?logo=mocha&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <img alt="PyTorch" src="https://img.shields.io/badge/Pytorch-0F0F0F.svg?logo=pytorch&logoColor=orange">
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -55,7 +50,6 @@ Godswill is an Enthusiastic Software developer, ready to combine tireless hunger
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-000000.svg?logo=ubuntu&logoColor=orange"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
